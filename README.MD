@@ -19,3 +19,8 @@ https://wu-sheng.gitbooks.io/opentracing-io/content/pages/quick-start.html opent
 根据大佬demo 输出到jaeger
 
 http://wproxy.org/whistle/ node+web的抓包工具
+
+
+### jaeger相关
+官方文档 https://www.jaegertracing.io/docs/1.11/<br>
+部署方式 https://github.com/jaegertracing/jaeger-kubernetes<br>
